@@ -3571,7 +3571,7 @@ blockquote strong {
 	9.4 Single Courses
 --------------------------- */
 .single-course-title {
-	background: #1d2229;
+	background: #ecf0f5;
 	color: #999999;
 	padding: 60px 0;
 }
@@ -3648,8 +3648,8 @@ blockquote strong {
 }
 .course-nav {
 	border-bottom: 1px solid #e5e5e5;
-	padding: 16px 0;
-	margin-bottom: 10px;
+    padding: 6px 0;
+    margin-bottom: 25px;
 }
 .course-nav ul {
 	margin: 0;
@@ -3668,7 +3668,7 @@ blockquote strong {
 	margin-right: 0;
 }
 .course-nav ul li a {
-	color: #888888;
+	color: #2C93D5;
 }
 .course-nav ul li a:hover {
 	color: #2c93d5;
