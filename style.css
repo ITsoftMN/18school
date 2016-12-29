@@ -3951,7 +3951,7 @@ blockquote strong {
 .single-course-title {
 	background: #ecf0f5;
 	color: #999999;
-	padding: 60px 0;
+	padding: 30px 0;
 }
 .single-course-title .thumb,
 .single-course-title .info {
@@ -4596,7 +4596,7 @@ blockquote strong {
 	font-family: PT-Sans;
 	font-weight: bold;
 	text-transform: uppercase;
-	line-height: 60px;
+	line-height: 40px;
 	margin-bottom: 10px;
 }
 .main-slider .owl-buttons div {
@@ -4781,7 +4781,7 @@ blockquote strong {
 	12.2 Home Page Version 1
 --------------------------- */
 #university-courses {
-	padding: 90px 0 60px;
+	padding: 50px 0 60px;
 }
 #university-courses .service-box {
 	padding: 65px 40px 20px;
@@ -4793,7 +4793,7 @@ blockquote strong {
 }
 #home-blog {
 	background: #ecf0f5;
-	padding: 90px 0 0px;
+	padding: 60px 0 0px;
 }
 #home-blog .inner-post {
 	background: #FFF;
